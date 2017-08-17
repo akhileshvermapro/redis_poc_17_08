@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "local.cache.infrastructure",
+  "type": "java.lang.String",
+  "description": "A description for 'local.cache.infrastructure'"
+}]}
